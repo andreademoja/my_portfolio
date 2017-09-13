@@ -1,0 +1,11 @@
+- name: Bmi calculator
+  description: A program that calcuates your ideal weight
+
+- name: FizzBuzz
+  description: My first test driven
+
+- name: Spice it up
+  description: My first website built in team collaboration
+
+- name: Atm machine
+  description: A Ruby project that simulates an Atm machine
